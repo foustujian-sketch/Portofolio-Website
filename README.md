@@ -2,7 +2,7 @@
 
 Website Portofolio Statis ini dibangun sebagai representasi profesional mahasiswa **Sistem Informasi Universitas Mulawarman**. Proyek ini menampilkan profil diri, keahlian teknis, dan pengalaman organisasi di **INFORSA**.
 
-## 🚀 Teknologi yang Digunakan
+## Teknologi yang Digunakan
 * **HTML5** - Struktur dasar konten web.
 * **CSS3** - Custom styling dan animasi transisi.
 * **Bootstrap 5.3** - Framework CSS untuk layouting responsif (Grid System), komponen Navbar, Card, dan Progress Bar.
@@ -37,7 +37,7 @@ Website Portofolio Statis ini dibangun sebagai representasi profesional mahasisw
 
 ---
 
-## 📸 Tampilan Section
+## Tampilan Section
 | Section | Deskripsi Visual |
 |---|---|
 | **Hero** | Tampilan bersih dengan teks sambutan putih di atas overlay gelap. |
@@ -46,12 +46,12 @@ Website Portofolio Statis ini dibangun sebagai representasi profesional mahasisw
 
 ---
 
-## 📂 Struktur Folder
+##  Struktur Folder
 ```text
 /
-├── index.html       # File utama website
-├── style.css        # File custom styling & animasi
-├── README.md        # Dokumentasi proyek
-└── images/          # Folder aset gambar
-    ├── photo.jpg    # Foto Profil
-    └── photo2.jpg   # Sertifikat/Foto INFORSA
+├── index.html       
+├── style.css        
+├── README.md        
+└── images/         
+    ├── photo.jpg    
+    └── photo2.jpg  

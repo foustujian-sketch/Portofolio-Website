@@ -11,7 +11,7 @@ Website Portofolio Statis ini dibangun sebagai representasi profesional mahasisw
 
 ---
 
-## 🛠️ Penjelasan Fitur & Struktur Kode
+## Penjelasan Fitur & Struktur Kode
 
 ### 1. Navbar
 * **Fitur**: Navigasi yang menempel di bagian atas (*Sticky-top*) untuk memudahkan akses antar section.
@@ -40,9 +40,9 @@ Website Portofolio Statis ini dibangun sebagai representasi profesional mahasisw
 ## Tampilan Section
 | Section | Deskripsi Visual |
 |---|---|
-| **Hero** | Tampilan bersih dengan teks sambutan putih di atas overlay gelap. |
-| **About** | Layout dua kolom (Foto di kiri, Deskripsi & Skill di kanan). |
-| **Certificates** | Grid sistem yang menampilkan kartu pengalaman organisasi. |
+| **Home** | <img src="https://github.com/user-attachments/assets/7b1cf734-35ee-4b35-9cf1-c5a6a57e7f6d" width="100%" /> |
+| **About** | <img src="https://github.com/user-attachments/assets/c3d9e8cd-d976-45e1-ae81-0e964a56d799" width="100%" /> |
+| **Certificates** | <img src="https://github.com/user-attachments/assets/2076dd2a-cbea-4e16-9820-d5c3797af434" width="100%" /> |
 
 ---
 
